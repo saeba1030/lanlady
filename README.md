@@ -1,4 +1,4 @@
 lanlady
 =======
 
-Personal small exercise app with Python
+File sending in LAN, with C programming.
